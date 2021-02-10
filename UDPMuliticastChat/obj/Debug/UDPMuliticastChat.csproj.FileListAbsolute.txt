@@ -1,0 +1,10 @@
+C:\Users\Matea\source\repos\UDPMuliticastChat\obj\Debug\UDPMuliticastChat.csprojAssemblyReference.cache
+C:\Users\Matea\source\repos\UDPMuliticastChat\obj\Debug\UDPMuliticastChat.ClientForm.resources
+C:\Users\Matea\source\repos\UDPMuliticastChat\obj\Debug\UDPMuliticastChat.ServerForm.resources
+C:\Users\Matea\source\repos\UDPMuliticastChat\obj\Debug\UDPMuliticastChat.Properties.Resources.resources
+C:\Users\Matea\source\repos\UDPMuliticastChat\obj\Debug\UDPMuliticastChat.csproj.GenerateResource.cache
+C:\Users\Matea\source\repos\UDPMuliticastChat\bin\Debug\UDPMuliticastChat.exe.config
+C:\Users\Matea\source\repos\UDPMuliticastChat\bin\Debug\UDPMuliticastChat.exe
+C:\Users\Matea\source\repos\UDPMuliticastChat\bin\Debug\UDPMuliticastChat.pdb
+C:\Users\Matea\source\repos\UDPMuliticastChat\obj\Debug\UDPMuliticastChat.exe
+C:\Users\Matea\source\repos\UDPMuliticastChat\obj\Debug\UDPMuliticastChat.pdb
